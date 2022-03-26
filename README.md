@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript, React, Node.js etc.
 - 📫 How to reach me: berfinhazalkaya@gmail.com
 - 📝 My linkedin page : https://www.linkedin.com/in/berfinhazalkaya/
 
