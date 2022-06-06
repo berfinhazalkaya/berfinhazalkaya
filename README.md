@@ -5,11 +5,19 @@
 - 🎓 I am a 2nd year student of Management Information Systems at Istanbul University.
 - 🔭 I’m currently learning test automation.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=berfinhazalkaya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berfinhazalkaya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Languages and Tools:
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
+
+
+ -->
 
 
 
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=berfinhazalkaya&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!-- ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berfinhazalkaya&show_icons=true&theme=gradient) --!>
 
 
