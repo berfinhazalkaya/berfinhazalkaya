@@ -3,7 +3,7 @@
 - 📝 My linkedin page : https://www.linkedin.com/in/berfinhazalkaya/
 - 🎓 I graduated from Maltepe University Computer Engineering in 100% English.
 - 🎓 I am a 2nd year student of Management Information Systems at Istanbul University.
-- 🔭 I’m currently learning test automation.
+- 🔭 I am currently working as a test automation engineer.
 
 
 <!-- Languages and Tools:
